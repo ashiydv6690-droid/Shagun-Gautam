@@ -1,0 +1,5 @@
+{
+  "name": "Artfolio",
+  "description": "A modern and elegant web application to showcase and sell digital art. Users can browse a gallery of artworks, view detailed information for each piece, and manage their selections in a shopping cart.",
+  "requestFramePermissions": []
+}
